@@ -1,1 +1,1 @@
-# celery_mini_project-1-
+# This is my first celery mini project
